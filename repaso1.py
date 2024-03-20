@@ -1,0 +1,8 @@
+print("welcome")
+n=input("enter your name: ")
+print(f"nice to meet you {n}")
+a=input("enter your last name: ")
+print(f"your full name is {n} {a}")
+e=int(input("enter your age: "))
+y=int(input("enter current year: "))
+print(f"your age is {e},{y},{y-e} ")
