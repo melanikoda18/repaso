@@ -1,4 +1,4 @@
-#v=int(input("What is the size of one of the sides of the square?: "))
+q#v=int(input("What is the size of one of the sides of the square?: "))
 #print(f"the square measures: {v*v} :)")
 #=float(input("What is the length of the rectangle?: "))
 #a=float(input("What is the width of the rectangle?: "))
