@@ -12,16 +12,12 @@ while(resp!="5"):
         num_2=int(input("numero 2: "))
    
     if (resp =="1"):
-        total=num_1+num_2
-          
+        total=num_1+num_2   
     elif (resp =="2"):
         total=num_1-num_2
-        
     elif (resp =="3"):
         total=num_1*num_2
-        
     elif(resp =="4"):
         total=num_1/num_2
-        
     if (resp!="5"):
         print(f"El resultado es {total}") 
